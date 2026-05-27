@@ -1,0 +1,1 @@
+create table ana(id number,name varchar)
