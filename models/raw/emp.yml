@@ -1,0 +1,6 @@
+sources:
+  - name: hr_info
+    database: leo
+    schema: dbt_project
+    tables:
+      - name: employee
